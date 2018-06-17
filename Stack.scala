@@ -1,4 +1,5 @@
 import io.StdIn._
+//import all library
 
 val stack=new Array[Int](10)
 var stackTop=(-1)
@@ -71,5 +72,5 @@ while (option=!0){
 		else{
 			println(pop())
 		}
-	}
+	}//implemented by Hasee Amarathunga
 }
