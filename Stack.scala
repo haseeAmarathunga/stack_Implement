@@ -56,7 +56,7 @@ while (option=!0){
 	else if (option==4)printStack()
 	else if (option==5){
 		if (isFull){
-			println("StackFull")
+			println("Stack is Full")
 		}
 		else{
 			print("Enter an integer :")
